@@ -1,0 +1,22 @@
+# PageSmith
+
+PageSmith is an AI-powered Publishing Operating System.
+
+Its purpose is to transform structured ideas into professional digital products through repeatable, human-guided workflows.
+
+## Current Status
+
+🚧 Alpha Development
+
+## Vision
+
+Build the world's most trusted publishing operating system.
+
+## Project Structure
+
+- docs/ — Documentation
+- pagesmith-core/ — Core engine
+- tests/ — Automated tests
+- examples/ — Example projects
+- scripts/ — Utility scripts
+- assets/ — Images, icons and resources
